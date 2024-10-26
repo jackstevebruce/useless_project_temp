@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'nothing'; /* Name you want to use for the font */
+    src: url('nothing-font-5x7.ttf') format('truetype'); /* Path to the font file */
+    font-weight: normal; /* Specify weight if needed */
+    font-style: normal; /* Specify style if needed */
+}
+
+body {
+    font-family: 'nothing', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #313030;
+}
+
+header {
+    background: #2a2d2d;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+#chat-container {
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+#chat-output {
+    height: 300px;
+    width: 70%;
+    overflow-y: auto;
+    margin-left: 15%;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+#chat-form {
+    display: flex;
+}
+
+#user-input {
+    
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 30%;
+    width: 40%;
+}
+
+button {
+    padding: 10px;
+    background-color: #0a0a0a;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/*footer {
+    margin: 2em;
+    text-align: center;
+    padding: 10px;
+    background: #313030;
+    color: white;
+}*/
