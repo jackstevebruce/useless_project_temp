@@ -44,7 +44,12 @@ For Software:
 
 
 ### Project Demo
-Project link: https://jackstevebruce.github.io/Nothingbot/
+video demo:
+
+
+https://github.com/user-attachments/assets/b64defff-00db-4b89-86f1-798a73cfc63c
+
+
 
 # Additional Demos
 [Add any extra demo materials/links]
