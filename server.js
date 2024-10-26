@@ -5,7 +5,7 @@ const bodyParser = require('body-parser');
 require('dotenv').config();
 
 const app = express();
-const port = process.env.PORT || 3000;
+
 const GenAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 const model = GenAI.getGenerativeModel({ model: "gemini-1.5-flash-latest"})
 
@@ -30,6 +30,3 @@ app.post('/api/imitate', async (req, res) => {
 });
 
 
-app.listen(port, () => {
-    console.log(`Server is running on http://localhost:${port}`);
-});
