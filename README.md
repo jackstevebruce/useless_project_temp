@@ -1,38 +1,32 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# Nothing Bot 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Code illa
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Anoop B - College of engineering Perumon
+- Member 2: Riswana Rahiman - College of engineering Perumon
+
 
 ### Project Description
-[2-3 lines about what your project does]
+our project involves developing a character and that dynamically combines with user provided input to make funny responses
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Ever wonder what it’s like to hear a cat complain about existential boredom, or a dragon grumble about dealing with annoying knights? This project tackles the “pressing” problem of giving animals and mythical beings a voice to vent their unique life struggles.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We’re building a chatbot that brings out the inner gripes and quirks of animals and mythical beings, using AI to create wildly entertaining and character-driven complaints.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+html,css,js
+Node.js
+openai api
 
 ### Implementation
 For Software:
@@ -45,38 +39,9 @@ For Software:
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots 
+![image](https://github.com/user-attachments/assets/6e514d4f-3036-41a9-962a-451b69ead473)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
