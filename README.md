@@ -44,9 +44,7 @@ For Software:
 
 
 ### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+Project link: https://jackstevebruce.github.io/Nothingbot/
 
 # Additional Demos
 [Add any extra demo materials/links]
